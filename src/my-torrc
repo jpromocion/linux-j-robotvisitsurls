@@ -1,0 +1,5 @@
+ControlPort 9151
+CookieAuthentication 0
+NewCircuitPeriod 1
+HashedControlPassword 16:CDAAC6EBE5B15868600C51CBF4B1747E9CBC5D770004853B4D52C68DCB
+
